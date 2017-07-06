@@ -16,5 +16,9 @@ Installation and initialization
 
 The result should look like this:
 <br/></br>
-<img src="https://goo.gl/ZNDCQG" />
+
+![Screenshot](screenshot.png)
+
+
+
 
