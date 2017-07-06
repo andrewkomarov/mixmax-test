@@ -94,10 +94,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="oauth_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="oauth_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/oauth_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="46" selection-start="597" selection-end="597" vertical-scroll-proportion="0.30832645">
+            <state line="17" column="46" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.05441055">
               <folding />
             </state>
           </provider>
@@ -487,7 +487,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="523" y="24" width="2036" height="1338" extended-state="1" />
+    <frame x="523" y="24" width="2036" height="1338" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -613,6 +613,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/oauth_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="46" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.01853412">
@@ -622,14 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/oauth_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="46" selection-start="597" selection-end="597" vertical-scroll-proportion="0.30832645">
+        <state line="3" column="0" selection-start="58" selection-end="58" vertical-scroll-proportion="0.05441055">
           <folding />
         </state>
       </provider>
