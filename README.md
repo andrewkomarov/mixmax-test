@@ -3,7 +3,7 @@
 Installation and initialization
 
 <ol>
-<li>Git clone https://github.com/andrewkomarov/mixmax-test</li>
+<li>$ git clone https://github.com/andrewkomarov/mixmax-test</li>
 <li>$ bundle install</li>
 <li>$ thin start --ssl</li>
 <li>Register an Instagram application in order to operate with their API platform (https://www.instagram.com/developer)</li>
